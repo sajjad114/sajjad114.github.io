@@ -1,0 +1,129 @@
+ .u-section-1 {
+  background-image: url("images/Discord-Freevoiceandtextchatforgamers.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 855px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 658px;
+  height: 346px;
+  margin: 57px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  width: 512px;
+  margin: -297px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 113px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+  margin: -136px 330px 60px 298px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 449px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 52px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 512px;
+    margin-right: 230px;
+    margin-bottom: 180px;
+    margin-left: 198px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 441px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 48px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 120px;
+    margin-bottom: 176px;
+    margin-left: 88px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 398px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 284px;
+    margin-top: 84px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -264px;
+    margin-left: 14px;
+    margin-right: 14px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 104px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-right: 28px;
+    margin-bottom: 60px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 419px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 301px;
+    width: 237px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+    width: 212px;
+    margin-top: -257px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 0.625rem;
+    margin-top: 100px;
+    padding: 10px 8px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 0.75rem;
+    margin-top: -109px;
+    margin-right: 0;
+  }
+}
