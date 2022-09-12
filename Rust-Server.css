@@ -1,0 +1,145 @@
+ .u-section-1 {
+  background-image: url("images/wp7007785-rust-game-wallpapers.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 895px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 563px;
+  height: 317px;
+  margin: 92px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-weight: 700;
+  margin: -317px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 0 371px 0 412px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  width: 116px;
+  margin: 23px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  margin: 21px 503px 60px 518px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 738px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 271px;
+    margin-left: 312px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 14px;
+    margin-right: 422px;
+    margin-left: 399px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 565px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 161px;
+    margin-left: 202px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 474px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 304px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -304px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 71px;
+    margin-left: 112px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 135px;
+    margin-top: 7px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 354px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 219px;
+    margin-top: 50px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    width: auto;
+    margin-top: -205px;
+    margin-left: 84px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+    width: auto;
+    margin-top: 16px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.25rem;
+    width: auto;
+    margin-top: 6px;
+    margin-left: 135px;
+    margin-right: 135px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 139px;
+    margin-top: 15px;
+  }
+}
